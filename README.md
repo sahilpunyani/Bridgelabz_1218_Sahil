@@ -21,4 +21,18 @@ NPM
 Type conversion(Strict mode)
 All Operators
 Conditional Branching
+
+06/12/24
+worked on 
 Interaction(alert, prompt, confirm)
+recursion
+topic covered 
+polyphills
+babel
+transpiler
+recursion
+logical and nullish operator
+oop 
+constructor
+
+
