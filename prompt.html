@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prompt Example</title>
+  <script>
+    function askName() {
+      var name = prompt("What is your name?");
+      if (name !== null) {
+        alert("Hello, " + name + "!");
+      } else {
+        alert("You did not enter your name.");
+      }
+    }
+  </script>
+</head>
+<body>
+
+  <h1>Welcome to the Prompt Example</h1>
+  <button onclick="askName()">Click Me to Enter Your Name</button>
+
+</body>
+</html>
