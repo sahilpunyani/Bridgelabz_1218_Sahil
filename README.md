@@ -53,4 +53,7 @@ Practice on assignment
 14. Print the first 10 Fibonacci numbers without recursion
 15. Create a function that will find the nth Fibonacci number using recursion
 
+12/12/24
+practice on remaining assignment 
+
 
